@@ -1,0 +1,9 @@
+###
+POST http://localhost:3000/api/addNewRegistry HTTP/1.1
+Content-Type: application/json
+
+{
+  "nameRegistry": "Manuel Castellanos",
+  "emailRegistry": "manuel101284@gmail.com",
+  "phoneRegistry": 3157543774
+}
