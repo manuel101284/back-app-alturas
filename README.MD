@@ -17,3 +17,8 @@
 ## Conectar el proyecto back a la Base de datos
 * Configurar el archivo index.js con la ruta de la conexión
 * Verificar el funcionamiento de los controladores o rutas (usar alguna extensión o postman)
+
+## Configurar los componentes de front
+* Crear losarchivos de los componentes respectivos que enviaran la información al back
+* Probar el correcto funcionamiento de los componentes respectivos
+* Disfrutar
